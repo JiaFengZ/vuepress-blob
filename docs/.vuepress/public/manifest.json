@@ -1,0 +1,16 @@
+{
+    "name": "jf blob",
+    "short_name": "jf blob",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "jf blob",
+    "theme_color": "blue",
+    "icons": [
+      {
+        "src": "./blob.jpg",
+        "sizes": "100x144",
+        "type": "image/jpg"
+      }
+    ]
+}
